@@ -1,2 +1,2 @@
-# weather-app
-A Weather App
+# Weather App
+This application allows users to check the weather forecast for their location and any other location around the world. It utilizes a weather API to fetch real-time weather data and provides users with a clean interface to view the weather forecast.
